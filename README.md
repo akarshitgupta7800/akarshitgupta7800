@@ -23,7 +23,7 @@
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?username=akarshitgupta78&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=akarshitgupta78&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
 </p>
