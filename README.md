@@ -1,75 +1,175 @@
-<div align="center">
+# Hi There! 👋
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=39FF14&height=200&section=header&text=Akarshit%20Gupta&fontSize=42&fontColor=000000&animation=twinkling&fontAlignY=35" width="100%"/>
+<h1 align="center">Hi, I'm Akarshit Gupta! 👨‍💻</h1>
 
-<a href="https://github.com/DenverCoder1/readme-typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=39FF14&center=true&vCenter=true&width=650&lines=DSA+Learner;Backend+Developer;AI%2FML+Engineer;Always+Building+%2F%2F+Always+Learning" alt="Typing SVG" />
-</a>
+<h3 align="center">A passionate AI/ML & Software Development Enthusiast from India 🇮🇳</h3>
 
-<img src="https://img.shields.io/badge/Open%20to%20Work-39FF14?style=for-the-badge&logo=briefcase&logoColor=000000" alt="Open to Work"/>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+</p>
 
-<img src="https://komarev.com/ghpvc/?username=akarshitgupta7800&color=39FF14&style=flat-square&label=Profile+Views" alt="Profile Views"/>
-<img src="https://img.shields.io/github/followers/akarshitgupta7800?label=Followers&style=flat-square&color=39FF14" alt="Followers"/>
+---
 
-</div>
+## 🚀 About Me
 
-<br/>
+- 🎓 B.Tech CSE (AI & ML) student
+- 💻 Strong interest in **Data Structures & Algorithms**
+- 🤖 Exploring **Artificial Intelligence, Machine Learning, GenAI & Agentic AI**
+- ☕ Building projects with **C++, Python & Java**
+- 🧠 Solving problems and continuously improving my problem-solving skills
+- 🌱 Currently learning **Backend Development, Java, JavaScript, GenAI & Agentic AI**
+- ⚡ I enjoy turning ideas into practical projects
 
-## 🧠 Who I Am
+---
 
-```typescript
-const akarshitGupta = {
-  title: "DSA Learner | Backend Developer | AI/ML Engineer",
-  stack: ["C++", "Java", "Python", "Git"],
-  launchedProjects: [], // 🚧 nothing shipped publicly yet — stay tuned!
-  certifications: [],   // 📌 to be added
-  status: "🌱 Sharpening DSA fundamentals while building backend & AI/ML skills",
-  openTo: ["Backend Development Roles", "AI/ML Internships", "Collaborations"]
-};
+## 🏆 My GitHub Trophy
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=radical&no-frame=true&no-bg=true&margin-w=10" alt="GitHub Trophies" />
+</p>
+
+---
+
+## 🛠️ Languages • Frameworks • Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,c,python,java,javascript,html,css,git,github,linux,vscode,mysql,mongodb,spring,django,react,tensorflow,pytorch,sklearn,docker&perline=10" />
+</p>
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&hide_border=true" height="180" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
+## 💻 Competitive Programming
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=baloo&ext=contest" alt="LeetCode Stats" />
+</p>
+
+- 🔥 **700+ LeetCode Problems Solved**
+- 🧩 Strong focus on DSA, problem solving and competitive programming
+- 🏁 Preparing for competitive programming contests and ICPC
+
+---
+
+## 🤖 AI / ML Journey
+
+### Areas I'm Exploring
+
+- Machine Learning
+- Deep Learning
+- Natural Language Processing
+- Generative AI
+- RAG
+- LLM Applications
+- Agentic AI
+- LangChain / LangGraph
+- AI-powered applications
+
+---
+
+## 📌 Featured Projects
+
+> Add your best 3–6 projects here.
+
+| Project | Description | Tech Stack |
+|---|---|---|
+| 🔗 **Project 1** | Your project description | Python / AI / ML |
+| 🔗 **Project 2** | Your project description | Java / Spring Boot |
+| 🔗 **Project 3** | Your project description | GenAI / RAG |
+| 🔗 **Project 4** | Your project description | C++ / DSA |
+
+---
+
+## 📚 Currently Learning
+
+```text
+DSA & Competitive Programming
+        ↓
+Java + Backend Development
+        ↓
+Generative AI
+        ↓
+RAG + LLM Applications
+        ↓
+Agentic AI
+        ↓
+System Design
 ```
 
-<br/>
+---
 
-## 🛠️ Tech Stack
+## 📈 My Goals
 
-**Languages**
+- [ ] Crack a top-tier software engineering internship
+- [ ] Become strong in Competitive Programming
+- [ ] Participate in ICPC
+- [ ] Build production-ready AI applications
+- [ ] Learn scalable backend development
+- [ ] Build and deploy GenAI / Agentic AI projects
+- [ ] Contribute to Open Source
 
-<img src="https://skillicons.dev/icons?i=cpp,java,python" alt="C++, Java, Python"/>
+---
 
-**Dev Tools**
+## 🤝 Connect With Me
 
-<img src="https://skillicons.dev/icons?i=git" alt="Git"/>
+<p align="center">
 
-<br/>
+<a href="YOUR_LINKEDIN_URL">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
-## 📊 GitHub Stats
+<a href="mailto:YOUR_EMAIL@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
-<div align="center">
+<a href="YOUR_PORTFOLIO_URL">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" />
+</a>
 
-<img src="https://github-readme-stats.vercel.app/api?username=akarshitgupta7800&show_icons=true&theme=nord&border_color=39FF14&title_color=39FF14&icon_color=39FF14&text_color=c9d1d9" alt="GitHub Stats" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akarshitgupta7800&layout=compact&theme=nord&border_color=39FF14&title_color=39FF14&text_color=c9d1d9" alt="Top Languages" height="165"/>
+<a href="YOUR_LEETCODE_URL">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+</a>
 
-<img src="https://streak-stats.demolab.com?user=akarshitgupta7800&theme=nord&border=39FF14&ring=39FF14&fire=39FF14&currStreakLabel=39FF14" alt="GitHub Streak"/>
+</p>
 
-<img src="https://github-profile-trophy.vercel.app/?username=akarshitgupta7800&theme=nord&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies"/>
+---
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=akarshitgupta7800&theme=react-dark&hide_border=true&color=39FF14&line=39FF14&point=ffffff" alt="Contribution Graph" width="100%"/>
+## 💬 Ask Me About
 
-</div>
+- C++
+- Data Structures & Algorithms
+- Machine Learning
+- Python
+- GenAI
+- Competitive Programming
+- Backend Development
 
-<br/>
+---
 
-## 🔗 Connect With Me
+## ⚡ Fun Fact
 
-> Links coming soon — uncomment and fill in below once ready:
+```text
+Code → Learn → Build → Break → Debug → Repeat 🚀
+```
 
-<!--
-<a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-39FF14?style=for-the-badge&logo=linkedin&logoColor=000000" alt="LinkedIn"/></a>
-<a href="https://twitter.com/YOUR-HANDLE"><img src="https://img.shields.io/badge/Twitter-39FF14?style=for-the-badge&logo=x&logoColor=000000" alt="Twitter/X"/></a>
-<a href="mailto:YOUR-EMAIL"><img src="https://img.shields.io/badge/Email-39FF14?style=for-the-badge&logo=gmail&logoColor=000000" alt="Email"/></a>
-<a href="https://YOUR-PORTFOLIO.com"><img src="https://img.shields.io/badge/Portfolio-39FF14?style=for-the-badge&logo=vercel&logoColor=000000" alt="Portfolio"/></a>
--->
+---
 
-<br/>
+<p align="center">
+  <b>Thanks for visiting my profile! ⭐</b>
+</p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=39FF14&height=120&section=footer&animation=twinkling" width="100%"/>
+<p align="center">
+  <i>Let's connect, build, learn and grow together.</i>
+</p>
