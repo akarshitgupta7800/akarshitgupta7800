@@ -2,8 +2,8 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=39FF14&height=200&section=header&text=Akarshit%20Gupta&fontSize=42&fontColor=000000&animation=twinkling&fontAlignY=35" width="100%"/>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=39FF14&center=true&vCenter=true&width=650&lines=DSA+Learner;Backend+Developer;AI%2FML+Engineer;Always+Building+%2F%2F+Always+Learning" alt="Typing SVG" />
+<a href="https://github.com/DenverCoder1/readme-typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=39FF14&center=true&vCenter=true&width=650&lines=DSA+Learner;Backend+Developer;AI%2FML+Engineer;Always+Building+%2F%2F+Always+Learning" alt="Typing SVG" />
 </a>
 
 <img src="https://img.shields.io/badge/Open%20to%20Work-39FF14?style=for-the-badge&logo=briefcase&logoColor=000000" alt="Open to Work"/>
