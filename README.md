@@ -23,9 +23,12 @@
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=akarshitgupta78&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img 
+    src="https://streak-stats.demolab.com?user=akarshitgupta78&theme=radical&hide_border=true&border_radius=10" 
+    alt="GitHub Streak"
+    height="180"
+  />
 </p>
-
 </p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=akarshitgupta78&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
